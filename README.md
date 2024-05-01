@@ -14,4 +14,7 @@ https://github.com/jacobdahlager/Math311_LinearAlgebraProjs/blob/main/Copy_of_Ma
   Using Colab to solve using Gram-Schmidt Process:
   https://colab.research.google.com/drive/1KkIidRbHDORU9lZAFNG8XbHzlTUYVSaq#scrollTo=Rrl_4HJv5DW3
 
-3. 
+3. Using Colab and Python to predict the score of sporting events and create ranking of teams
+
+  Using Colab to create ranking and score prediction of team matchups:
+   https://colab.research.google.com/drive/1UxHk12kKt7d9A1_QkWqvtFH6tj1Erd9z
